@@ -1,14 +1,7 @@
 # CTR-Prediction
 Ads Click Through Rate is the ratio of how many users clicked on your ad to how many users viewed your ad. For example, 5 out of 100 users click on the ad while watching a youtube video.So, in this case, the CTR of the youtube ad will be 5%. Analyzing the click-through rate help companies in finding the best ad for their target audience. 
-  <title>CTR Prediction</title>
-  <style>
-    body { font-family: Arial, sans-serif; color: #333; line-height: 1.6; }
-    h1 { color: #007acc; }
-    h2 { color: #005b99; }
-    code { background: #f4f4f4; padding: 2px 4px; }
-  </style>
-</head>
-<body>
+  
+  
 
   <h1>CTR Prediction Project</h1>
   <p>This project involves predicting the Click-Through Rate (CTR) for online ads using machine learning models. It explores feature engineering, data preprocessing, and model evaluation to optimize CTR prediction accuracy.</p>
